@@ -3,7 +3,7 @@
 
 Build | Pylint | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-![C/C++ CI](Badgelink) | ![Pylint](Badgelink) | ![Unity - Unit Testing](Badgelink) | ![Git Inspector](Badgelink)
+![Python CI](Badgelink) | ![Pylint](Badgelink) | ![Unity - Unit Testing](Badgelink) | ![Git Inspector](Badgelink)
 
 
 ## Folder Structure
