@@ -82,8 +82,5 @@ LOW LEVEL REQUIREMENTS
 | TEST ID | TEST DECRIPTION | EXPECTED INPUT | EXPECTED OUTPUT | ACTUAL OUTPUT |
 | --- | --- | --- | --- | --- |
 | 1 | To check if the statistical data obtained per record is sent to related stakeholders (Requirement-based) | Input modules with all values within boundaries | Statistical analysis for all inputs and emails are triggered |
- |
 | 2 | To check if marks obtained by a student exceeds the maximum score (Scenario-based) | Mark values of all students | Add the record to the end of the file and continue with further records |
- |
 | 3 | To check if the email id is not in proper format (Boundary-based) | Consolidated data | Add a default mail id and add it to end of the record |
- |
