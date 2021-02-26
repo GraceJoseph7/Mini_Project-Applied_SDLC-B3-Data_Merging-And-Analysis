@@ -73,9 +73,7 @@ LOW LEVEL REQUIREMENTS
 | TEST ID | TEST DECRIPTION | EXPECTED INPUT | EXPECTED OUTPUT | ACTUAL OUTPUT |
 | --- | --- | --- | --- | --- |
 | 1 | To check if mail-id not present (Requirement-based) | Enter empty mail id | Prompt asking for proper mail id and sending mail to a default mail id |
- |
 | 2 | To check if incorrect mail id is submitted (Scenario -based) | Enter a mail-id | Prompt displaying asking to enter right mail id |
- |
 | 3 | To check if marks obtained by student zero or not present (boundary-based) | empty values in input modules | Prompt displayed mentioning missing value and initially entering marks as 0 |
  |
 
