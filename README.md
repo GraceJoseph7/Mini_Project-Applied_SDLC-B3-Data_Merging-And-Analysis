@@ -19,21 +19,9 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`99003583` | Abhishek Reddy K  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`99003516` | Mareedu Krishna Rao  | Feature C, D etc    | X No     | X No   |X No   |X No     
-`99003551` | Prakruthi N  | Feature C, D etc    | X No     | X No   |X No   |X No  
-`99003509` | Nikitha Reddy Amaram  | Feature C, D etc    | X No     | X No   |X No   |X No  
+`99003583` | Abhishek Reddy K  |    |     |    |  |   
+`99003516` | Mareedu Krishna Rao  |    |      |    |   |    
+`99003551` | Prakruthi N  |    |     |   |   |
+`99003509` | Nikitha Reddy Amaram  |     |      |    |   | 
 
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
-
-## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
