@@ -1,4 +1,4 @@
-# High level design
+# High Level Design
 ## USE-CASE DIAGRAM
 ![Image of Yaktocat](USE-CASE.png)
 ## CLASS DIAGRAM
