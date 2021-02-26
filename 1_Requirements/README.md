@@ -67,3 +67,25 @@ LOW LEVEL REQUIREMENTS
 =======
 
 >>>>>>> 5d165d58a0fda3f5fb234f5b02769745e24fb757
+>>>>>>> 
+**LOW LEVEL TESTING:**
+
+| TEST ID | TEST DECRIPTION | EXPECTED INPUT | EXPECTED OUTPUT | ACTUAL OUTPUT |
+| --- | --- | --- | --- | --- |
+| 1 | To check if mail-id not present (Requirement-based) | Enter empty mail id | Prompt asking for proper mail id and sending mail to a default mail id |
+ |
+| 2 | To check if incorrect mail id is submitted (Scenario -based) | Enter a mail-id | Prompt displaying asking to enter right mail id |
+ |
+| 3 | To check if marks obtained by student zero or not present (boundary-based) | empty values in input modules | Prompt displayed mentioning missing value and initially entering marks as 0 |
+ |
+
+**HIGH LEVEL TESTING:**
+
+| TEST ID | TEST DECRIPTION | EXPECTED INPUT | EXPECTED OUTPUT | ACTUAL OUTPUT |
+| --- | --- | --- | --- | --- |
+| 1 | To check if the statistical data obtained per record is sent to related stakeholders (Requirement-based) | Input modules with all values within boundaries | Statistical analysis for all inputs and emails are triggered |
+ |
+| 2 | To check if marks obtained by a student exceeds the maximum score (Scenario-based) | Mark values of all students | Add the record to the end of the file and continue with further records |
+ |
+| 3 | To check if the email id is not in proper format (Boundary-based) | Consolidated data | Add a default mail id and add it to end of the record |
+ |
